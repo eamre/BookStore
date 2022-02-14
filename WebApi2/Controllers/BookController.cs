@@ -27,7 +27,7 @@ namespace WebApi2.Controllers
             _context = context;
             _mapper = mapper;
         }
-
+deneme
 
         [HttpGet]
         public IActionResult GetBooks()
